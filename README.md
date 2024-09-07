@@ -25,4 +25,5 @@ Essa função mágica transforma uma simples pesquisa em uma jornada de descober
 Quer ajudar a melhorar essa ferramenta? Sinta-se à vontade para abrir um pull request!
 
 
-Apenas um projetinho básico feito durante o curso de imersão dev da ALura
+Apenas um projetinho básico feito durante o curso de imersão dev da Alura
+curso-gemini-r36jkbh6x-henrique-andersons-projects.vercel.app
