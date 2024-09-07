@@ -23,3 +23,6 @@ Essa função mágica transforma uma simples pesquisa em uma jornada de descober
 
 ### Contribuindo
 Quer ajudar a melhorar essa ferramenta? Sinta-se à vontade para abrir um pull request!
+
+
+Apenas um projetinho básico feito durante o curso de imersão dev da ALura
